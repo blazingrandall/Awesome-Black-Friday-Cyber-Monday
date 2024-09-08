@@ -632,6 +632,7 @@ Total deals: 540
 | 🤑 | [RunApp.Today](https://RunApp.Today) | The Ideal AI SaaS Boilplate (Pre-Order) | 50% OFF and 1 custom feature for free |
 |  🤑 | [MDBootstrap](https://mdbootstrap.com/sale/november/standard/) | Top quality UI Kits for Bootstrap 5, jQuery, Angular, React & Vue. |  Exclusive **$30 discount** ON TOP OF already discounted Black Friday offers. Just use code **`github`** on the checkout to claim the discount. |
 |  🤑 | [TW Elements](https://tw-elements.com/pro/) | Top quality Tailwind UI Kit | Get a **$500 OFF** on a licence for an unlimited number of projects. |
+|  🤑 | [TemplateHive](https://templatehive.net) | The best web themes & templates. From WordPress, Shopify, Magento, HTML, and so much more | Get a **15% OFF** on each template and code script purchase. |
 | 💰  | [Magic UI](https://magicui.design) | Create Magical Landing Pages in Minutes | $30 off personal license. Use code **ONEDAYSPECIAL**. Valid till 24th November, 2023 |
 | 🤑 | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit written in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license until end of November |
 
